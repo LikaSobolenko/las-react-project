@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/las-react-project/static/css/main.e6c13ad2.css",
-    "main.js": "/las-react-project/static/js/main.c16f54b6.js",
+    "main.css": "/las-react-project/static/css/main.073c9b0a.css",
+    "main.js": "/las-react-project/static/js/main.b949df5a.js",
     "static/js/787.7400607d.chunk.js": "/las-react-project/static/js/787.7400607d.chunk.js",
     "index.html": "/las-react-project/index.html",
-    "main.e6c13ad2.css.map": "/las-react-project/static/css/main.e6c13ad2.css.map",
-    "main.c16f54b6.js.map": "/las-react-project/static/js/main.c16f54b6.js.map",
+    "main.073c9b0a.css.map": "/las-react-project/static/css/main.073c9b0a.css.map",
+    "main.b949df5a.js.map": "/las-react-project/static/js/main.b949df5a.js.map",
     "787.7400607d.chunk.js.map": "/las-react-project/static/js/787.7400607d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.c16f54b6.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b949df5a.js"
   ]
 }
